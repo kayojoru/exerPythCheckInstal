@@ -33,12 +33,12 @@
   
 ## Check version
 
-* [ ] Open an Anaconda Prompt. (If you're on a Mac, you should be able to just open a terminal window and run these commands.)
-* [ ] Check your python version by running the code `python --version`
-* [ ] Enter the result in the table below.
-* [ ] Open a regular Command Prompt.
-* [ ] Check your python version by running the code `python --version`
-* [ ] Enter the result in the table below.
+* [x] Open an Anaconda Prompt. (If you're on a Mac, you should be able to just open a terminal window and run these commands.)
+* [x] Check your python version by running the code `python --version`
+* [x] Enter the result in the table below.
+* [x] Open a regular Command Prompt.
+* [x] Check your python version by running the code `python --version`
+* [x] Enter the result in the table below.
 
 |   Command   |         Result          |
 |     ---     |           ---           |
