@@ -1,11 +1,11 @@
-# Checking Your Python (Anaconda) Installation
+`# Checking Your Python (Anaconda) Installation
 
 ## Summary of steps to complete (See corresponding sections below.)
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
-- [ ] Edit this README.md file on your machine.
+- [x] Fork this repository so you have your own copy to work on.
+- [x] Clone the repository on your local machine. 
+- [x] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
+- [x] Edit this README.md file on your machine.
 - [ ] Push your changes to your GitHub repository.
 - [ ] Submit a link to this GitHub repository in Canvas.
 
@@ -42,8 +42,10 @@
 
 |   Command   |         Result          |
 |     ---     |           ---           |
-|`python --version` in Anaconda Prompt         |(enter result here)|
-|`python --version` in regular Command Prompt  |(enter result here)|
+|`python --version` in Mac Terminal         |Python 3.8.8|
+|`python3 --version` in Mac Terminal        |Python 3.9.7|
+|`python --version` in VS Code Terminal     |Python 2.7.16|
+|`python3 --version` in VS Code Terminal    |Python 3.9.7|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
